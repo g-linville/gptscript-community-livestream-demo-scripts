@@ -1,0 +1,3 @@
+tools: ./petstore.yaml
+
+Add five new pets. Create a unique name for each. All of them should be different kinds of fish.

@@ -1,0 +1,4 @@
+tools: ./spotify.yaml
+
+Find the top 10 songs from Metallica and add them to my library. Then, add the album that each song came from to my library.
+
